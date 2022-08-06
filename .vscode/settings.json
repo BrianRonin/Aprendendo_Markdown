@@ -1,0 +1,18 @@
+{
+  "markdown-preview-enhanced.codeBlockTheme": "dark.css",
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "markdown-preview-enhanced.revealjsTheme": "night.css",
+  "markdown-preview-enhanced.mathRenderingOption": "KaTeX",
+  "markdown-preview-enhanced.frontMatterRenderingOption": "none",
+  "markdown-preview-enhanced.puppeteerArgs": [
+  
+  ],
+  "markdown.extension.italic.indicator": "*",
+  "markdownlint.run": "onType",
+  "markdownlint.customRules": [
+  ],
+  "markdownlint.ignore": [
+    "no-emphasis-as-heading",
+  "MD036"
+]
+}
