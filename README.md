@@ -1,8 +1,12 @@
 <!-- markdownlint-disable -->
 <!-- https://github.com/DavidAnson/markdownlint 
 <!-- https://marp.app/ 
-<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
+# Aprendendo markdown  :sunglasses:
+[Markdownlint](https://github.com/DavidAnson/markdownlint)
+[Emoji github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+[Marp](https://marp.app/)
 
 <!--- HEADING --->
 # H1 HEADERS
